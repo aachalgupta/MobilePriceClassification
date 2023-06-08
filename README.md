@@ -33,4 +33,4 @@ Features of the dataset are explained below:
 15.)price_range -> This is the target variable with the value of 0(low cost), 1(medium cost), 2(high cost)
 and 3(very high cost)
 
-PRICE RANGE is our Target Variable and its a CLASSIFICATION Problem (0,1,2,3)
+PRICE RANGE is our Target Variable and its a CLASSIFICATION Problem (0,1,2,3) . Various Classification algorithms are used for prediction.
